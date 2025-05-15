@@ -24,3 +24,6 @@ A simple web-based tool to visualize graphs interactively. Users can input the n
 ---
 
 #### This web page is hosted [here!](https://luimas007.github.io/graph-visualizer/)
+
+![Example Image](Graph.png)
+
